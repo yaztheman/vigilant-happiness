@@ -63,3 +63,8 @@ Project description.
 <!-- Update 3 -->
 
 <!-- Update 4 -->
+
+## Update 1
+
+Latest improvements and optimizations.
+
